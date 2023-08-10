@@ -1,0 +1,7 @@
+/home/dev/Documents/Insta/Instaclone/story-service/src/main/java/com/instagram/story/StoryApplication.java
+/home/dev/Documents/Insta/Instaclone/story-service/src/main/java/com/instagram/story/dto/StoryDto.java
+/home/dev/Documents/Insta/Instaclone/story-service/src/main/java/com/instagram/story/dto/AddStoryDto.java
+/home/dev/Documents/Insta/Instaclone/story-service/src/main/java/com/instagram/story/service/StoryService.java
+/home/dev/Documents/Insta/Instaclone/story-service/src/main/java/com/instagram/story/controller/StoryController.java
+/home/dev/Documents/Insta/Instaclone/story-service/src/main/java/com/instagram/story/model/Story.java
+/home/dev/Documents/Insta/Instaclone/story-service/src/main/java/com/instagram/story/repository/StoryRepository.java
